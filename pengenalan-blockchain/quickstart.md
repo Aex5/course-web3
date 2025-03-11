@@ -2,22 +2,10 @@
 icon: cube
 ---
 
-# Apa itu Blockchain
+# Pengenalan Blockchain
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-hero.png" alt=""><figcaption></figcaption></figure>
+Sebelum era Web3, pengguna internet dapat melakukan berbagai aktivitas online, seperti menjelajahi situs web, membuat teks, gambar, video, dan konten lainnya, serta berbagi dan berkomunikasi di media sosial, menciptakan kehidupan online yang dinamis. Contohnya, bersosialisasi di Weibo, menerbitkan artikel di akun publik, berbelanja di Taobao, mengunggah video pendek di TikTok, dan sebagainya.
 
-Beautiful documentation starts with the content you create — and GitBook makes it easy to get started with any pre-existing content.
+Namun, era ini juga membawa berbagai permasalahan. Meskipun pengguna dapat dengan bebas membuat dan berbagi konten, sebenarnya data dan konten tersebut dikendalikan oleh perusahaan teknologi yang mengoperasikan platform tersebut. Pengguna adalah pencipta konten, tetapi mereka tidak benar-benar memiliki data mereka sendiri. Hal ini menimbulkan berbagai masalah privasi dan keamanan, di mana informasi pribadi dapat disalahgunakan atau bocor.
 
-{% hint style="info" %}
-Want to learn about writing content from scratch? Head to the [Basics](../basics/editor.md) section to learn more.
-{% endhint %}
-
-### Import
-
-GitBook supports importing content from many popular writing tools and formats. If your content already exists, you can upload a file or group of files to be imported.
-
-<div data-full-width="false"><figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-import.png" alt=""><figcaption></figcaption></figure></div>
-
-### Sync a repository
-
-GitBook also allows you to set up a bi-directional sync with an existing repository on GitHub or GitLab. Setting up Git Sync allows you and your team to write content in GitBook or in code, and never have to worry about your content becoming out of sync.
+Salah satu contoh yang mencolok adalah skandal kebocoran data Facebook-Cambridge Analytica pada tahun 2018, di mana jutaan data pengguna Facebook dikumpulkan dan digunakan secara tidak sah untuk memengaruhi pemilihan politik. Insiden ini menunjukkan risiko dan konsekuensi dari kontrol data yang terpusat.
