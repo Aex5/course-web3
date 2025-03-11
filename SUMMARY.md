@@ -4,7 +4,7 @@
 
 ## Pengenalan Blockchain
 
-* [Apa itu Blockchain](pengenalan-blockchain/quickstart.md)
+* [Pengenalan Blockchain](pengenalan-blockchain/quickstart.md)
 * [Publish your docs](pengenalan-blockchain/publish-your-docs.md)
 
 ## Basics
